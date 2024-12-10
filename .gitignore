@@ -1,0 +1,9 @@
+# Unnecessary folders:
+.vscode
+__pycache__/
+
+# Unnecessary files:
+*.zip
+.DS_Store
+*.json
+*.pdf
